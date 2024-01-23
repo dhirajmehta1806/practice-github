@@ -1,6 +1,6 @@
-def addition (a,b):
+def addition (a,b,c):
     
-    return a+b
+    return a+b+c
 
 def subraction (a,b):
 
